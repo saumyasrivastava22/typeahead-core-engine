@@ -1,5 +1,5 @@
 // Generated from C:/github/typeahead-core-engine/src/main/resources/grammar/java\Java8Parser.g4 by ANTLR 4.9.1
-package grammar.java;
+package com.grumpy.core.grammar.java;
 import org.antlr.v4.runtime.tree.ParseTreeVisitor;
 
 /**

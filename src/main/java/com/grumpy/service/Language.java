@@ -1,12 +1,13 @@
 package com.grumpy.service;
 
 import java.util.Arrays;
-import java.util.Optional;
 
 public enum Language {
 
     MySql8,
+    Java,
     Java8,
+    Python,
     Python3;
 
     public static Language resolve(String name) {

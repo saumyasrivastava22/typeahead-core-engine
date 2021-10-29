@@ -1,5 +1,5 @@
 // Generated from C:/github/typeahead-core-engine/src/main/resources/grammar/java\Java8Lexer.g4 by ANTLR 4.9.1
-package grammar.java;
+package com.grumpy.core.grammar.java;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
@@ -163,7 +163,7 @@ public class Java8Lexer extends Lexer {
 	@Override
 	public String getSerializedATN() { return _serializedATN; }
 
-	@Override
+	//@Override
 	public String[] getChannelNames() { return channelNames; }
 
 	@Override

@@ -1,5 +1,5 @@
 // Generated from C:/github/typeahead-core-engine/src/main/resources/grammar/python\Python3Lexer.g4 by ANTLR 4.9.1
-package grammar.python;
+package com.grumpy.core.grammar.python;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
@@ -153,7 +153,7 @@ public class Python3Lexer extends Python3LexerBase {
 	@Override
 	public String getSerializedATN() { return _serializedATN; }
 
-	@Override
+	//@Override
 	public String[] getChannelNames() { return channelNames; }
 
 	@Override

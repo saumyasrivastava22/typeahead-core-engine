@@ -1,5 +1,5 @@
 // Generated from C:/github/typeahead-core-engine/src/main/resources/grammar/python\Python3Parser.g4 by ANTLR 4.9.1
-package grammar.python;
+package com.grumpy.core.grammar.python;
 
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
